@@ -1,0 +1,23 @@
+Simple_HUD v1.0pre1
+---------------------
+Lua HUD for Aleph One
+by Hopper
+
+A complete HUD with no images. Good for experimenting with the Lua HUD API.
+
+Install:
+
+1. Place the script "Simple_HUD.lua" wherever you like. Your Aleph One
+   preferences directory would be a good place.
+
+2. Launch Aleph One (0.22pre2), and go to "Preferences", then "Environment".
+
+   2a. Check the box "Use HUD Script".
+   
+   2b. Next to "Script File", click the words "(no valid selection)" to
+       open a file dialog. Navigate to the directory where you saved
+       Simple_HUD.lua, and select it by double-clicking its name.
+
+   2c. Click "Accept", then "Return" to exit the preferences.
+
+3. You're all set now; go create some carnage.
