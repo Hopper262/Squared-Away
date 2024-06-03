@@ -1,0 +1,2 @@
+<plugin name="Squared Away" version="1.0" description="Image-free HUD" hud_lua="Squared_Away.lua">
+</plugin>

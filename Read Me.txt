@@ -1,23 +1,23 @@
-Simple_HUD v1.0pre1
----------------------
-Lua HUD for Aleph One
+Squared Away v1.0
+-----------------
 by Hopper
 
-A complete HUD with no images. Good for experimenting with the Lua HUD API.
+----------------------------------------------------------------
+DESCRIPTION:
+A floating HUD with no images - everything is drawn with rectangles or text. Originally built to test Aleph One's Lua HUD engine during its development.
 
-Install:
+----------------------------------------------------------------
+INSTALLATION:
+- Drag the downloaded .zip file, or the unzipped "Squared_Away" folder, into the "Plugins" folder inside your scenario folder. (Create a "Plugins" folder if you don't already have one.)
+- Launch Aleph One, and go to "Preferences", then "Environment", then "Plugins" and make sure the plugin is listed as "Enabled". You can click on it to turn it on or off. Disable any other HUD plugins you have installed.
 
-1. Place the script "Simple_HUD.lua" wherever you like. Your Aleph One
-   preferences directory would be a good place.
+----------------------------------------------------------------
+CHANGELOG:
 
-2. Launch Aleph One (0.22pre2), and go to "Preferences", then "Environment".
+v1.0:
+* First public release
 
-   2a. Check the box "Use HUD Script".
-   
-   2b. Next to "Script File", click the words "(no valid selection)" to
-       open a file dialog. Navigate to the directory where you saved
-       Simple_HUD.lua, and select it by double-clicking its name.
-
-   2c. Click "Accept", then "Return" to exit the preferences.
-
-3. You're all set now; go create some carnage.
+----------------------------------------------------------------
+CONTACT:
+If you have any questions, comments or bugs to report, open an issue on GitHub:
+https://github.com/Hopper262/Squared-Away
